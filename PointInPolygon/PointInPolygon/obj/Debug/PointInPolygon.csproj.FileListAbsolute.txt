@@ -1,0 +1,9 @@
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\bin\Debug\PointInPolygon.exe.config
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\bin\Debug\PointInPolygon.exe
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\bin\Debug\PointInPolygon.pdb
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.csprojResolveAssemblyReference.cache
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.Form1.resources
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.Properties.Resources.resources
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.csproj.GenerateResource.Cache
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.exe
+c:\users\agataa\documents\visual studio 2015\Projects\PointInPolygon\PointInPolygon\obj\Debug\PointInPolygon.pdb

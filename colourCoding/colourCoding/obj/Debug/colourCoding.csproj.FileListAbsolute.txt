@@ -1,0 +1,9 @@
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\bin\Debug\colourCoding.exe.config
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.csprojResolveAssemblyReference.cache
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.Form1.resources
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.Properties.Resources.resources
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.csproj.GenerateResource.Cache
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\bin\Debug\colourCoding.exe
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\bin\Debug\colourCoding.pdb
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.exe
+c:\users\agataa\documents\visual studio 2015\Projects\colourCoding\colourCoding\obj\Debug\colourCoding.pdb
